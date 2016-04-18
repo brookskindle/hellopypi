@@ -13,5 +13,5 @@ setup(
     author="Brooks Kindle",
     author_email="brookskindle@gmail.com",
     url="https://github.com/brookskindle/hellopypi",
-    keywords=["test", "hello"]
+    keywords=["test", "hello"],
 )
